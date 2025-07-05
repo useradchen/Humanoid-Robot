@@ -1,6 +1,6 @@
 # Humanoid-Robot
 
-This project provides C++ code to control a humanoid robot's leg joints using Dynamixel actuators. It supports walking, kicking, and balancing, and includes inverse kinematics and trajectory interpolation.
+(walking_with_joystick)This project provides C++ code to control a humanoid robot's leg joints using Dynamixel actuators. It supports walking, kicking, and balancing, and includes inverse kinematics and trajectory interpolation.
 
 ## 🔧 Hardware Compatibility
 
